@@ -4,6 +4,15 @@ excerpt: "Aim to generate a new kanji based on english prompt"
 collection: portfolio
 ---
 
+In this article, we build a text-to-image AI that learns Chinese characters in the same way humans do - by understanding what their components mean. 
+It can then invent new characters based on the meaning of an English prompt.
+
+<img src="/images/kanji_front_show.png">
+<p align="center">prompt for the word "queen" over 80,000 train steps. </p>
+
+For associated code, please see the [github repo](https://github.com/KokiYamanaka/Generative-Kanji)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Goal](#goal)
@@ -12,7 +21,6 @@ collection: portfolio
 - [Procedure](#procedure)
 - [Training Choice](#training-choice)
 - [Results](#results)
-
 
 ## Introduction 
 Japanese Kanji characters not only carries phonetic info, but they also carry simple semantic meanings.
