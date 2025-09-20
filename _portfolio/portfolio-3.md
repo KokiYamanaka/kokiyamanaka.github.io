@@ -1,4 +1,3 @@
-
 ---
 title: "Churn Prediction for B2B Manufacturing"
 excerpt: "Churn prediction project for a B2B manufacturing education platform"
