@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Main"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, this is Koki’s blog. I'm interested in Mathematics and AI, and their applications
-I write about some of my projects and thoughts here. 
+Hey there!
+
+I'm Kouki, welcome to my personal page.
+
+I aim to build meaningful products.
