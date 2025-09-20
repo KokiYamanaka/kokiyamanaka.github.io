@@ -4,8 +4,6 @@ excerpt: "Automated system that converts external construction orders into stand
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
 
 ### The Problem
 Our client is a construction component supplier with over 110 franchise locations across Japan. When construction companies place orders, they submit lists of required components written in their own terms or formats.
