@@ -50,4 +50,4 @@ It was also mentioned that being on-site would have allowed deeper issue discove
 
 ## Gallery
 **Dashboard view**  
-![Dashboard view](/images/dashboard.png)
+<img src="/images/gallery.png" alt="Dashboard view" />
