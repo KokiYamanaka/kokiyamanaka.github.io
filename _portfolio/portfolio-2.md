@@ -10,10 +10,28 @@ collection: portfolio
 Our client is a software company that helps diagnose the health of solar panels. In the past, they diagnosed solar panel health on a per-customer basis, but now they want to build a website so anyone can use it. However, the existing code is a single 10k-line MATLAB file, while the website requires a modularized Python codebase. On top of that, the code involves complex scientific calculations, so ensuring correctness is critical.  
 
 ## Ideal architecture for the web application
+<img src="/images/solar_design.png" alt="Dashboard view" />
 
 ## Understanding the input data
 The goal of the web application is to take a solar panel configuration, hourly weather data, and actual power generation as inputs, and output the theoretical power generation. By comparing the theoretical and actual power generation, the system can calculate the lost generation and provide insights into solar panel health. 
-Here, we show some sample input data :
+Here, we show some sample input data : 
+
+<figure>
+  <img src="/images/solar_config.png" alt="Solar panel configuration" />
+  <figcaption style="text-align: center;">Solar panel configuration</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/solar_power.jpg" alt="Actual solar power generation" />
+  <figcaption style="text-align: center;">Actual solar power generation</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/solar_weather.png" alt="Hourly weather data" />
+  <figcaption style="text-align: center;">Hourly weather data</figcaption>
+</figure>
+
+
 
 ## Solution
 We aim to build an AI agent that modularizes the legacy code end to end. Given a part of the legacy code, a predefined module structure, and past client data, the agent:
