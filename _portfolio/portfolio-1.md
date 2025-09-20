@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1"
+title: "Automated Quotation for Construction Supplier"
+excerpt: "Automated system that converts external construction orders into standardized internal quotations using OCR, vector search, and LLMs."
 collection: portfolio
 ---
 
@@ -13,10 +13,10 @@ Our client is a construction component supplier with over 110 franchise location
 The supplier must then manually convert these lists into internal quotation documents by mapping the construction company’s terms to the supplier’s standardized internal product names.
 
 **Construction companies submission :** 
-![Dashboard view](/posts/project-b/client_order_.png) 
+![Dashboard view](/_portfolio/images/client_order_.png) 
 
 **Internal Quotation :** 
-![Dashboard view](/posts/project-b/client_quotation.png) *Blue = Input | Red = Output*
+![Dashboard view](/_portfolio/images/client_quotation.png) *Blue = Input | Red = Output*
 
  
 
