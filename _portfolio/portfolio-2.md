@@ -49,8 +49,10 @@ These are the key challenges during the development :
 - Difficult to validate the accuracy of scientific computation
 
 Here, we briefly explain how we solved these challenges.  
-[1] A long range LLM was used to propose the optimal structure.  
+[1] A long range LLM was used to propose the optimal structure. 
+
 [2] We define the high-level structure of a single module and ask the LLM to write a main entry point with function signatures for multiple classes. By ensuring that inputs and outputs across classes are consistent, the entire module remains coherent, and when the LLM fills in the specifics, there is no confusion.  
 
 [3] Ingesting the full legacy code into a vector database confused the LLM due to complexity. Instead, we removed the code but kept comments, which provide high-level context without noise. This allowed the LLM to use comment pairs to identify relevant code chunks more effectively.  
+
 [4] This is the toughest challenge: validating the correctness of Agent-generated scientific code. For example, given an array of solar panels and the sun’s position, the code computes the shading factor to adjust power generation. To verify correctness, we need not only input/output test cases but also intermediate values. Since no archived intermediates exist, we allow the Agent to generate them.  
