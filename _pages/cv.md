@@ -54,7 +54,7 @@ Skills
 * **Technical Knowledge**: Machine Learning, Computer Vision, Databases, Security, OOP  
 * **Mathematics**: Graph Theory, Graduate-level Time Series, Statistical Inference, Probability & Stochastics, Optimization, Advanced Linear Algebra  
 
-Seminars
+Pet Projects 
 ======
 * **University of Tokyo Courses**  
   * Summer 2025: Foundations of Intelligent Robotics & Intelligent Robot Systems Engineering  
