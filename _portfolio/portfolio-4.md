@@ -11,7 +11,7 @@ It can then invent new characters based on the meaning of an English prompt.
 <p align="center">prompt for the word "queen" over 80,000 train steps. </p>
 
 For associated code, please see the [github repo](https://github.com/KokiYamanaka/Generative-Kanji)
-## Table of Contents
+## Other Links 
 - Associated Code [github repo](https://github.com/KokiYamanaka/Generative-Kanji)
 - [Basic Intuition Behind Stable Diffusion](https://kokiyamanaka.github.io/posts/2025/09/blog-post-1/)
 
