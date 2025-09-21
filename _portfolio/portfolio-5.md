@@ -1,3 +1,10 @@
+---
+title: "NeuroEvolution"
+excerpt: "The Use Case Of NEAT"
+collection: portfolio
+---
+
+
 # NeuroEvolution
 
 ## 1. Neuro Sime
