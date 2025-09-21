@@ -51,12 +51,14 @@ Skills
 * **Languages**: Fluent in English, Japanese, Mandarin, Malay  
 * **Programming**: Python (main), Java, R, C#, C++, MATLAB, HTML/CSS  
 * **Tech Stack**: AWS, Databricks, Scikit-learn, RAG  
-* **Technical Knowledge**: Machine Learning, Computer Vision, Databases, Security, OOP  
+* **Technical Knowledge**: Machine Learning, Computer Vision, Databases, Security 
 * **Mathematics**: Graph Theory, Graduate-level Time Series, Statistical Inference, Probability & Stochastics, Optimization, Advanced Linear Algebra  
 
 Pet Projects 
 ======
-* **University of Tokyo Courses**  
-  * Summer 2025: Foundations of Intelligent Robotics & Intelligent Robot Systems Engineering  
-  * Spring 2024: Financial Market Trading and Machine Learning  
-  * Summer 2023: Large Language Models  
+* **Deep Learning** : [Kanji-Diffusion](https://kokiyamanaka.github.io/portfolio/portfolio-4/) , [NeuroEvolution](https://kokiyamanaka.github.io/portfolio/portfolio-5/)
+* **AI Agent** : [Intangible Asset Scoring](https://kokiyamanaka.github.io/portfolio/portfolio-6/)  
+* **Mathematical** :  [Ukraine Farm Optimization](https://github.com/KokiYamanaka/uni-projects/blob/main/mathematical%20optimization/project-report.pdf) , [Dow Jones Time Series](https://github.com/KokiYamanaka/uni-projects/blob/main/time%20series/presentation-slide.pdf), [Compare Euler Algo](https://github.com/KokiYamanaka/uni-projects/blob/main/graph%20theory/math4430_euler_algorithm.pdf) , [Norm Space 1hr Talk](https://github.com/KokiYamanaka/uni-projects/tree/main/real-analysis) 
+ * **Machine Learning** : [House Regression](https://github.com/KokiYamanaka/uni-projects/blob/main/machine%20learning/paper_project_comp4980_01.pdf) 
+ [Ship Classification](https://github.com/KokiYamanaka/uni-projects/blob/main/computer%20vision/computer%20vision%20project%20report.pdf)
+ *  **Others**  [Calculator OOP (C++)](https://github.com/KokiYamanaka/uni-projects/blob/main/oop/project%20comp%203141/Phase%201%20code%20plan.pdf)   
