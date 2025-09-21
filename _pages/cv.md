@@ -20,8 +20,8 @@ Work Experience
 * **AI Engineer — [Novatrade](https://novatrade.co.jp), Tokyo (Remote)**  
   * Feb 2025 – Aug 2025   
   * Focused on proof-of-concept (PoC) development to validate feasibility and guide production design:  
-    * AI system to automate quote generation for construction component suppliers  
-    * Multi-agent system to refactor legacy code for a power generation company  
+    * [AI system to automate quote generation for construction component suppliers](https://kokiyamanaka.github.io/portfolio/portfolio-1/) 
+    * [Multi-agent system to refactor legacy code for a power generation company](https://kokiyamanaka.github.io/portfolio/portfolio-2/)
     * Semantic matching engine to align freelancers with job postings  
     * ASR prototype to transcribe meetings with 30+ participants  
     * User behavior analysis to support a child-focused trip recommendation engine  
@@ -30,7 +30,7 @@ Work Experience
 
 * **Data Science Intern (Marketing) — [Tebiki Inc.](https://tebiki.co.jp), Tokyo (Remote)**  
   * Jan 2024 – Dec 2024  
-  * Developed predictive models for subscriptions and churn using CRM and marketing campaign data  
+  * [Developed predictive models for subscriptions and churn using CRM and marketing campaign data](https://kokiyamanaka.github.io/portfolio/portfolio-3/)
   * Built a web app to visualize organization charts from corporate numbers  
   * Prepared time series data to visualize growth in accounts and video output for PR  
   * Tested feasibility of marketing call scripts to speed up outreach efforts  
@@ -59,7 +59,7 @@ Pet Projects
 ======
 * **Deep Learning** : [Kanji-Diffusion](https://kokiyamanaka.github.io/portfolio/portfolio-4/) , [NeuroEvolution](https://kokiyamanaka.github.io/portfolio/portfolio-5/)
 * **AI Agent** : [Intangible Asset Scoring](https://kokiyamanaka.github.io/portfolio/portfolio-6/)  
-* **Mathematical** :  [Ukraine Farm Optimization](https://github.com/KokiYamanaka/uni-projects/blob/main/mathematical%20optimization/project-report.pdf) , [Dow Jones Time Series](https://github.com/KokiYamanaka/uni-projects/blob/main/time%20series/presentation-slide.pdf), [Compare Euler Algo](https://github.com/KokiYamanaka/uni-projects/blob/main/graph%20theory/math4430_euler_algorithm.pdf) , [Norm Space 1hr Talk](https://github.com/KokiYamanaka/uni-projects/tree/main/real-analysis) 
+* **Mathematical** :  [Ukraine Farm Optimization](https://github.com/KokiYamanaka/uni-projects/blob/main/mathematical%20optimization/project-report.pdf) , [Dow Jones Time Series](https://github.com/KokiYamanaka/uni-projects/blob/main/time%20series/presentation-slide.pdf), [Compare Euler Algo](https://github.com/KokiYamanaka/uni-projects/blob/main/graph%20theory/math4430_euler_algorithm.pdf) , [Norm Space Lecture](https://github.com/KokiYamanaka/uni-projects/tree/main/real-analysis) 
  * **Machine Learning** : [House Regression](https://github.com/KokiYamanaka/uni-projects/blob/main/machine%20learning/paper_project_comp4980_01.pdf) 
  [Ship Classification](https://github.com/KokiYamanaka/uni-projects/blob/main/computer%20vision/computer%20vision%20project%20report.pdf)
  *  **Others**  [Calculator OOP (C++)](https://github.com/KokiYamanaka/uni-projects/blob/main/oop/project%20comp%203141/Phase%201%20code%20plan.pdf)   
