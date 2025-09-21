@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **B.Sc. in Mathematics
+* **B.Sc. in Mathematics**
   - Minor in Computer Science) 
   - Thompson Rivers University, Kamloops, Canada
  
