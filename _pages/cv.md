@@ -9,57 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **B.Sc. in Mathematics**
-  - Minor in Computer Science) 
-  - Thompson Rivers University, Kamloops, Canada
- 
-Work Experience
-======
-* **AI Engineer — [Novatrade](https://novatrade.co.jp), Tokyo (Remote)**  
-  * Feb 2025 – Aug 2025   
-  * Focused on proof-of-concept (PoC) development to validate feasibility and guide production design:  
-    * [AI system to automate quote generation for construction component suppliers](https://kokiyamanaka.github.io/portfolio/portfolio-1/) 
-    * [Multi-agent system to refactor legacy code for a power generation company](https://kokiyamanaka.github.io/portfolio/portfolio-2/)
-    * Semantic matching engine to align freelancers with job postings  
-    * ASR prototype to transcribe meetings with 30+ participants  
-    * User behavior analysis to support a child-focused trip recommendation engine  
-    * Data analysis course content for instructors at a Japanese vocational school  
-  * Led two cross-functional teams (3–4 members) across different countries  
+## Profile
 
-* **Data Science Intern (Marketing) — [Tebiki Inc.](https://tebiki.co.jp), Tokyo (Remote)**  
-  * Jan 2024 – Dec 2024  
-  * [Developed predictive models for subscriptions and churn using CRM and marketing campaign data](https://kokiyamanaka.github.io/portfolio/portfolio-3/)
-  * Built a web app to visualize organization charts from corporate numbers  
-  * Prepared time series data to visualize growth in accounts and video output for PR  
-  * Tested feasibility of marketing call scripts to speed up outreach efforts  
+- Worked on projects from PoC to full development using software and AI for clients across industries such as construction, solar energy, and children’s applications.
+- Applied **data science** to solve **marketing and business problems**.  
+- Fluent in **Mandarin, English, Indonesian, and Japanese**; **basic conversation in Spanish**.  
 
-* **R&D Intern — [Open Associates RPA Holdings](https://open.co.jp/en/), Tokyo**  
-  * Aug 2023 – Dec 2023  
-  * Implemented a chatbot to automate recurring legal queries in employment contract creation for labor consultants  
+## Journey
+- **Canada   (2021–2025)** — University and Full Time Work    
+- **Japan    (2016–2020)** — High School  
+- **Malaysia (2001–2016)** — Born and raised  
 
-* **Software Engineer Intern — Portback Inc., Tokyo**  
-  * May 2023 – Aug 2023  
-  * Implemented an API to deliver concise insights on Buddhist statues for use in a Japanese tourism app  
+## Education
 
-* **Math Content Writer — Colodus, Tokyo**  
-  * May 2023 – Aug 2023  
-  * Created Japanese high school math problems and solutions for an edtech startup  
+- **BSc Mathematics & Statistics, Minor in Computer Science**  
+- Thompson Rivers University (Canada)  
 
-Skills
-======
-* **Languages**: Fluent in English, Japanese, Mandarin, Malay  
-* **Programming**: Python (main), Java, R, C#, C++, MATLAB, HTML/CSS  
-* **Tech Stack**: AWS, Databricks, Scikit-learn, RAG  
-* **Technical Knowledge**: Machine Learning, Computer Vision, Databases, Security 
-* **Mathematics**: Graph Theory, Graduate-level Time Series, Statistical Inference, Probability & Stochastics, Optimization, Advanced Linear Algebra  
+## Experience
 
-Pet Projects 
-======
-* **Deep Learning** : [Kanji-Diffusion](https://kokiyamanaka.github.io/portfolio/portfolio-4/) , [NeuroEvolution](https://kokiyamanaka.github.io/portfolio/portfolio-5/)
-* **AI Agent** : [Intangible Asset Scoring](https://kokiyamanaka.github.io/portfolio/portfolio-6/)  
-* **Mathematical** :  [Ukraine Farm Optimization](https://github.com/KokiYamanaka/uni-projects/blob/main/mathematical%20optimization/project-report.pdf) , [Dow Jones Time Series](https://github.com/KokiYamanaka/uni-projects/blob/main/time%20series/presentation-slide.pdf), [Compare Euler Algo](https://github.com/KokiYamanaka/uni-projects/blob/main/graph%20theory/math4430_euler_algorithm.pdf) , [Norm Space Lecture](https://github.com/KokiYamanaka/uni-projects/tree/main/real-analysis) 
- * **Machine Learning** : [House Regression](https://github.com/KokiYamanaka/uni-projects/blob/main/machine%20learning/paper_project_comp4980_01.pdf) 
- [Ship Classification](https://github.com/KokiYamanaka/uni-projects/blob/main/computer%20vision/computer%20vision%20project%20report.pdf)
- *  **Others**  [Calculator OOP (C++)](https://github.com/KokiYamanaka/uni-projects/blob/main/oop/project%20comp%203141/Phase%201%20code%20plan.pdf)   
+### AI Engineer — [Novatrade, Tokyo (Remote)](https://novatrade.co.jp/) | Jan 2025 – Aug 2025
+- Developed PoC & full development:
+  - Automated quote generation for construction suppliers ([Portfolio](https://kokiyamanaka.github.io/portfolio/portfolio-1/))  
+  - Refactored legacy code via multi-agent system for a power company ([Portfolio](https://kokiyamanaka.github.io/portfolio/portfolio-2/))  
+  - Built semantic engine to match freelancers with jobs  
+  - Analyzed user behavior for a child-focused trip recommendation engine  
+  - Created data analysis course content for vocational instructors  
+- Led two cross-functional teams (3–4 members) across countries  
+
+### Data Science Intern (Marketing) — [Tebiki Inc., Tokyo (Remote)](https://tebiki.co.jp/) | Jan 2024 – Dec 2024
+- Built predictive models for subscriptions and churn from CRM and marketing data ([Portfolio](https://kokiyamanaka.github.io/portfolio/portfolio-3/))  
+- Developed web app to visualize organization charts from corporate numbers  
+- Processed time series data to track account and video growth  
+- Tested marketing call scripts to improve outreach speed  
+
+### R&D Intern — [Open Associates RPA Holdings, Tokyo](https://open.co.jp/en/) | Aug 2023 – Dec 2023
+- Developed chatbot to automate recurring legal queries in employment contracts  
+
+### Math Content Writer — Colodus, Tokyo | May 2023 – Aug 2023
+- Created high school math problems and solutions for an edtech startup  
+
+## Stacks
+
+- **Work-related:**  
+  - FastAPI, React, PostgreSQL  
+  - ChromaDB (RAG), LLM  
+  - Scikit-learn, TensorFlow  
+  - AWS, Databricks   
+  - Git Actions 
+
+## Independent & Collaborative Work
+
+- **Deep Learning:**  
+  - [Kanji Diffusion](https://kokiyamanaka.github.io/portfolio/portfolio-4/)  
+  - [Neuro Evolution](https://kokiyamanaka.github.io/portfolio/portfolio-5/)  
+- **Mathematical:**  
+  - [Dow Jones Forecast](https://github.com/KokiYamanaka/uni-projects/blob/main/time%20series/presentation-slide.pdf)  
+  - [Ukraine Farm Optimization](https://github.com/KokiYamanaka/uni-projects/blob/main/mathematical%20optimization/project-report.pdf)  
+  - [Compare Euler Algorithm](https://github.com/KokiYamanaka/uni-projects/blob/main/graph%20theory/math4430_euler_algorithm.pdf)
